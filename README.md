@@ -8,4 +8,4 @@ I am an Economics and Finance student at the University of Hong Kong. I am simpl
 
 📫 How to reach me: yashika_anand@connect.hku.hk
 
-⚡ Fun fact: It has only been a few months since I started learning python 
+⚡ Fun fact: I started learning python quite recently 
